@@ -1,0 +1,67 @@
+ How do I get started with building my own CRM?
+We let developers build their own industry-specific applications and plugins for Zoho products. With zero development cost involved, developers can provide completely re-branded solutions to their customers which can be sold on a custom pricing policy.
+
+You can become a Zoho Platform Developer by joining the Zoho Platform Developer Program here. 
+
+ Why choose Zoho Platform for building applications?
+Applications are built on the reliable infrastructure of Zoho CRM and all of Zoho’s products.
+You get free access to marketplace to sell your applications.
+There is no development or review fee.
+Mobile solution for all applications is available.
+Training and support for application development is free.
+ What are the features of Zoho Platform?
+A tech platform to build custom CRM solutions.
+Complete re-branding abilities.
+Customers can sign up from your website.
+Set your own pricing policy.
+Map your own custom domain.
+ Who owns the CRM applications built on the Zoho Platform?
+The sole ownership of applications built on Zoho Platform rests with the developers who build them.These applications are completely re-branded under their domain. The customizations made by the developers via custom functions, which actually contain the business logic, will be hidden from the end customers who sign up, so others cannot duplicate an application.
+
+ Who will be the owner of the leads signed up for an application?
+The leads generated from an application will be owned by the developer who built it.
+
+ When can developers begin selling their application?
+Developers can begin selling their application right after it has been published and made live. 
+
+ How can I map my own domain?
+Mapping your Custom Domain is vital to make your app completely white labeled. The Zoho Platform supports custom domain mapping. Please click here to learn more.
+
+ Can anybody sign up for the app or is it invite based?
+Zoho Platform offers you two sign up settings for you to choose from:
+
+Allow any user to sign up.
+Allow access based on an invite.
+This can be managed from the Platform Console itself.
+
+ How does Zoho Platform pricing work?
+Zoho Platform has a flexible pricing system. It is flexible in that it allows the developer to decide a major share of the subscription fee for the vertical CRM. The total subscription fee that a developer charges  the customer will be the sum total of the following components:
+
+CRM Base: The base price is common for all the plans and is fixed at $30 per user per month. This value cannot be changed. This share goes to Zoho.
+Developer Markup:  This is the price that can be fixed by the developer. The markup price is the share that goes to the developer for the apps that the developer creates and sells.
+Setup Fee: This is a one time fee that can be charged from the end user for setting up their vertical CRM account. This share also goes to the developer.
+ Who handles the subscriber payment?
+Payment is handled by Zoho. When your subscribers upgrade their account they will be redirected to the Zoho Payment gateway where the payment will be processed.
+
+ How often is the payment processed to the Platform developer?
+Payment will be processed on a monthly basis to the developer, and the commission sum generated must be at least $100.
+
+ Who is responsible for supporting  customers who subscribe for the vertical CRM?
+Every app built  with the Zoho Platform will be supported by the Platform developer. The developer can  get help from Zoho in creating  or publishing help documents for their respective vertical solution.
+
+ Does Zoho Platform offer a mobile version?
+Yes. iOS and Android apps are available for all the applications built on Platform.
+
+ Does Zoho Platform support integrations with other applications?
+Yes, Zoho Platform supports integrations both with other Zoho products as well as other extensions.
+
+The following are the Zoho integrations supported by Zoho Platform:
+
+Zoho Projects
+Zoho SalesIQ 
+Zoho Campaigns
+The following are the other extensions supported by Zoho Platform:
+
+Microsoft Office and Outlook
+Google Contacts and Google Calendar
+POP3 and IMAP integration
